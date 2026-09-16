@@ -1,4 +1,12 @@
 public enum Category {
-    Income,
-    Expense
+    Groceries,
+    EatingOut,
+    Bills,
+    Transport,
+    Shopping,
+    Entertainment,
+    Holidays,
+    Finances,
+    FamilyAndPersonalCare,
+    General
 }

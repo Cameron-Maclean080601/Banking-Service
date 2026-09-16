@@ -1,6 +1,8 @@
 public enum Currency {
-    Dollars,
-    Euros,
-    Sterling,
-    Yen
+    USD,
+    EUR,
+    GDP,
+    JPY,
+    AUD,
+    CAD,
 }
