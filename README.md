@@ -5,4 +5,6 @@ Starting with a basic Java project implementing a simple transaction tracker des
 
 ## UML Diagram
 
-![Transaction Service UML](TransactionServiceUML/TransactionService.png)
+![Transaction Service UML](docs/TransactionServiceUML.png)
+
+[Editable Draw.io file](docs/TransactionServiceUML.drawio)
